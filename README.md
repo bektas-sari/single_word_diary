@@ -1,6 +1,7 @@
-# 📝 Single Word Diary
+# 📝 Single Word Diary (Flutter APP)
 
-**Single Word Diary** is a minimal yet meaningful Flutter app that lets users capture the essence of their day using just one word. The goal is to promote mindfulness and self-reflection with a simple, habit-forming experience.
+**Single Word Diary** is a minimal yet meaningful Flutter app that lets users capture the essence of their day using just one word. 
+The goal is to promote mindfulness and self-reflection with a simple, habit-forming experience.
 
 ---
 
