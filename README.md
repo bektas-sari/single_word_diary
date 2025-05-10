@@ -21,7 +21,7 @@ The goal is to promote mindfulness and self-reflection with a simple, habit-form
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/single_word_diary.git
+git clone https://github.com/bektas-sari/single_word_diary.git
 cd single_word_diary
 ```
 
