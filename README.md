@@ -67,9 +67,12 @@ assets/                # (Optional) Place for icons or fonts
 
 ---
 
-## 👤 Developer  
+## 👤 Developer
 
-**Bektas Sari**  
+**Bektaş Sarı**
+PhD in Advertising, AI + Creativity researcher
+Flutter Developer & Software Educator
+
 - **Email:** [bektas.sari@gmail.com](mailto:bektas.sari@gmail.com)  
 - **GitHub:** [github.com/bektas-sari](https://github.com/bektas-sari)  
 - **LinkedIn:** [linkedin.com/in/bektas-sari](https://www.linkedin.com/in/bektas-sari)  
